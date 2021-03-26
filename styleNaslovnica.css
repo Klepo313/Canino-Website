@@ -12,5 +12,13 @@ header{
     margin: 10px auto;
     border: violet 3px solid;
     height: 100px;
-    width: 50%;
+    width: 100%;
+    align-items: center;
+    text-align: center;
+}
+p{
+    border:solid 2px blue;
+    padding: 20px;
+    align-items: center;
+    width: 60%;
 }
