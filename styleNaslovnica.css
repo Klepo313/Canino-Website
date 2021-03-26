@@ -9,6 +9,8 @@ header{
 }
 .header-div{
     display: flex;
-    margin: auto;
+    margin: 10px auto;
     border: violet 3px solid;
+    height: 100px;
+    width: 50%;
 }
