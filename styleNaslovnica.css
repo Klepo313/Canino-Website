@@ -5,7 +5,7 @@
     background-color: white;
 }
 header{
-    border: red 3px solid;
+    border: purple 3px solid;
 }
 .header-div{
     display: flex;
