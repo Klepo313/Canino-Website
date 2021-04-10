@@ -16,3 +16,12 @@ header{
     margin: auto;
     height: auto;
 }
+.header-div-language{
+    display: flex;
+    flex-direction: row;
+}
+.lang{
+    width: 26px;
+    height: 18px;
+    margin: 10px;
+}
