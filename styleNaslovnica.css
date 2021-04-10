@@ -9,7 +9,7 @@ header{
 }
 .header-div{
     display: flex;
-    margin: 10px auto;
+    margin: 40px auto;
     border: violet 3px solid;
     height: 100px;
     width: 100%;
@@ -17,8 +17,9 @@ header{
     text-align: center;
 }
 p{
+    margin: auto 10px;
     border:solid 2px blue;
-    padding: 20px;
+    padding: 15px;
     align-items: center;
     width: 60%;
 }
