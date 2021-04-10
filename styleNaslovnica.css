@@ -4,3 +4,15 @@
     box-sizing: border-box;
     background-color: white;
 }
+
+header{
+    border: 2px solid red;
+    width: 100%;
+    height: auto;
+    margin: auto;
+}
+.header-div{
+    border: 2px solid salmon;
+    margin: auto;
+    height: auto;
+}
