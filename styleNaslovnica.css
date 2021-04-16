@@ -3,6 +3,7 @@
     padding: 0px;
     box-sizing: border-box;
     background-color: white;
+    font-family: Montserrat,"Helvetica Neue",Helvetica;
 }
 
 header{
@@ -16,6 +17,9 @@ header{
     margin: auto;
     height: auto;
 }
+
+/*Language dropdown*/
+
 .header-div-language{
     display: flex;
     flex-direction: row;
@@ -24,4 +28,31 @@ header{
     width: 26px;
     height: 18px;
     margin: 10px;
+}
+
+/*NAVBAR*/
+
+ul{
+    list-style-type: none;
+}
+li{
+    display: inline;
+    font-size: 18px;
+    color: #292929;
+    margin-right: 20px;
+}
+.header-div-navbar{
+    border: 2px solid blue;
+    margin: auto;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+}
+
+.header-div-left{
+    margin-left: 10%;
+    border: 2px solid green;
+    display: flex;
+    flex-direction: row;
 }
