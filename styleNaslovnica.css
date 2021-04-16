@@ -90,17 +90,24 @@ li{
 #btn-img-account{
     position: relative;
     margin-left: 61.8px;
-    top: 5px;
+    top: 6px;
     width: 24.49px;
     height: 24.49px;
+}
+#btn-img-account:hover{
     cursor: pointer;
+    padding: 1px;
 }
 
 #btn-img-settings{
     position: relative;
     margin-left: 61.8px;
-    top: 5px;
+    top: 6px;
     width: 24.49px;
     height: 24.49px;
     cursor: pointer;
+}
+#btn-img-settings:hover{
+    cursor: pointer;
+    padding: 1px;
 }
