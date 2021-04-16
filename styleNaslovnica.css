@@ -77,7 +77,8 @@ li{
     cursor: pointer;
 }
 .btn-postani-setac:hover{
-    background-color: #368b57;
+    background-color: #42a86a;
+    border: 2px solid #42a86a;
 }
 
 .btn-prijava{
