@@ -7,13 +7,13 @@
 }
 
 header{
-    border: 2px solid red;
+    /*border: 2px solid red;*/
     width: 100%;
     height: auto;
     margin: auto;
 }
 .header-div{
-    border: 2px solid salmon;
+    /*border: 2px solid salmon;*/
     margin: auto;
     height: auto;
 }
@@ -42,11 +42,15 @@ li{
     color: #292929;
     margin-right: 81.8px;
     cursor: pointer;
+    
+}
+li:hover{
     padding-bottom: 12px;
     border-bottom: 1px solid #292929;
 }
+    
 .header-div-navbar{
-    border: 2px solid blue;
+    /*border: 2px solid blue;*/
     margin: auto;
     height: auto;
     display: flex;
@@ -56,14 +60,15 @@ li{
 
 .header-div-left{
     margin-left: 10%;
-    border: 2px solid green;
+    /*border: 2px solid green;*/
     display: flex;
     flex-direction: row;
 }
 
 .header-div-right{
-   border: 2px solid darkgreen;
+   /*border: 2px solid darkgreen;*/
    margin: auto;
+   margin-right: 50px;
 }
 
 .btn-postani-setac{
