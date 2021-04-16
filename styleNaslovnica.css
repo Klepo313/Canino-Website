@@ -34,12 +34,16 @@ header{
 
 ul{
     list-style-type: none;
+    margin: auto;
 }
 li{
     display: inline;
     font-size: 18px;
     color: #292929;
-    margin-right: 20px;
+    margin-right: 81.8px;
+    cursor: pointer;
+    padding-bottom: 12px;
+    border-bottom: 1px solid #292929;
 }
 .header-div-navbar{
     border: 2px solid blue;
@@ -52,7 +56,38 @@ li{
 
 .header-div-left{
     margin-left: 10%;
-    border: 2px solid green;
+    /*border: 2px solid green;*/
     display: flex;
     flex-direction: row;
+}
+
+.header-div-right{
+   /* border: 2px solid darkgreen;*/
+   margin: auto;
+}
+
+.btn-postani-setac{
+    position: relative;
+    padding: 17.1px 25.8px 17.1px 25.8px;
+    border-radius: 10px;
+    border: 2px solid #292929;
+    color: #292929;
+    font-size: 18px;
+}
+
+.btn-prijava{
+    color: #fff;
+    font-size: 18px;
+    background-color: #292929;
+    border-radius: 10px;
+    padding: 17.1px 27.7px 17.1px 27.7px;
+    margin-left: 81.8px;
+}
+
+.btn-img-account{
+    position: relative;
+    margin: auto;
+    margin-left: 81.8px;
+    width: 24.49px;
+    height: 24.49px;
 }
